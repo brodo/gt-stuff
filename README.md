@@ -1,1 +1,1 @@
-# gt-stuff
+# gt-stuff## Installation```stMetacello new	repository: 'github://brodo/gt-stuff:main/src';	baseline: 'GtStuff';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfGtStuff asClass loadLepiter```
